@@ -1,0 +1,8 @@
+# Binary deliverables must never be line-ending normalized
+*.pdf binary
+*.docx binary
+*.png binary
+*.csv text
+*.ipynb text
+*.md text
+*.txt text
